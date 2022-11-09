@@ -1,0 +1,22 @@
+{
+    "home": {
+        "site_title": "Friends - ho",
+        "header_buttons_names": [
+            {
+                "button_title": "Home",
+                "button_name": "button_home"
+            },
+            {
+                "button_title": "Friends",
+                "button_name": "button_friends"
+            },
+            {
+                "button_title": "Finding",
+                "button_name": "button_finding"
+            }
+        ]
+    },
+    "friends": {
+        "site_title": "Friends",
+    }
+}
