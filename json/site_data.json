@@ -3,10 +3,6 @@
         "site_title": "Friends - ho",
         "header_buttons_names": [
             {
-                "button_title": "Home",
-                "button_name": "button_home"
-            },
-            {
                 "button_title": "Friends",
                 "button_name": "button_friends"
             },
@@ -18,5 +14,15 @@
     },
     "friends": {
         "site_title": "Friends",
+        "header_buttons_names": [
+            {
+                "button_title": "Home",
+                "button_name": "button_home"
+            },
+            {
+                "button_title": "Finding",
+                "button_name": "button_finding"
+            }
+        ]
     }
 }
